@@ -1,0 +1,123 @@
+!DOCTYPE html>
+<html>
+ <h1 style="font-size:67px;"></h1>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+   <style>body {
+background-color: rgb(0, 225, 255);}
+h1{color:rgb(252, 252, 252);}
+
+h2{color:rgb(252, 249, 249);}
+
+h3{color:rgb(252, 252, 252);}
+    
+ h4 {color:rgb(252, 249, 249);}  
+     h5 {color:rgb(252, 249, 249);}   
+ h6 {color:rgb(252, 249, 249);}  
+  h1{font:30;}
+h2{font:28;}
+
+   }
+
+   
+        </style>
+   
+
+}
+   
+    </head>
+    <body>
+    
+       <h1 style="font-size:67px;">Welcome to Washington DC</h1>
+   <a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/WashMonument_WhiteHouse.jpg/350px-WashMonument_WhiteHouse.jpg" alt = "Washington DC" width="500" height="247">
+     <p class="body" >  <div> There is so much to see  in Washington DC; like the White House, Lincoln Memorial, and the Washington Monument. All of these places add great value to our beautiful country. They also provide a historical education on the US and our journey.</div>
+     <h2 style="font-size:50px;">Martin Luther King Jr Memorial
+      <img src="https://upload.wikimedia.org/wikipedia/en/c/c2/MLK_Memorial_NPS_photo.jpg" alt = "Washington DC" width="541" height="396">
+   </h2>
+     <div>
+ <p>This is The Martin Luther King Jr Memorial
+ <ul>
+  <li>This memorial represents one of the most iconic and influential men in the world 
+  <li> this man  fought for our rights and pushed for equality no matter the cost
+  <li> the memorial  covers four acres and includes the Stone of Hope, a granite statue of Civil Rights Movement leader Martin Luther King Jr.
+  <li>The memorial Opened 48 years after Dr. King's I Have a Dream speech on the steps of the Lincoln Memorial 
+  <li>the MLK Memorial stands 30 feet high.    
+ This is The Martin Luther King Jr Memorial
+     </ul>      </div>
+       
+<h3 style="font-size:40px;">The White House
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/White_House_Washington.JPG" alt = "The White House" width="541" height="306">
+</h3>
+<div>
+<p>This is the White House a.k.a the President's Palace 
+<ul>
+ <li>this is where all of our great presidents lived; some not so great  
+ <li>this is also where the president works 
+ <li> There are 412 doors, 147 windows, 28 fireplaces, 7 staircases, 132 rooms, 35 bathrooms,  6 levels but only 3 elevators.
+ 
+  
+</ul>
+</div>
+
+
+<h4 style="font-size:35px;">Culture
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/National_Museum_of_the_American_Indian.JPG/220px-National_Museum_of_the_American_Indian.JPG" alt = "The Lincoln Memorial" width="541" height="306">
+ </h4>
+ National Museum of the American Indian   
+   
+
+ 
+ <div> 
+Washington, DC is very diverse and therefore sees plenty of different <a href="#id">cultural</a> highlights, with most revolving around the arts. Live music and dance is big in the city, and although go-go performances were banned it is still possible to catch an act in a jazz club in the Anacostia district of the city. Live jazz and blues can be heard everywhere thanks to Duke Ellington, who performed in many clubs as well as along the streets in the U Street Corridor, which was known as Black Broadway.<a href=" https://en.wikipedia.org/wiki/Culture_of_Washington,_D.C.">https://en.wikipedia.org/wiki/Culture_of_Washington,_D.C.
+</a>
+</div> 
+
+<h5 style="font-size:34px;">Food
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Impossible_Burger_-_Gott%27s_Roadside-_2018_-_Stierch.jpg/220px-Impossible_Burger_-_Gott%27s_Roadside-_2018_-_Stierch.jpg" alt = "The Washington Monument" width="541" height="306"> 
+    </h5>
+    
+
+<p>D.C.'s best food items  are 
+<div>
+<ul>
+  <li> Chesapeake blue crabs</li>
+  <li>Fishmonger</li>
+  <li>Seafood</li>
+<li>Korean fried chicken with Mumbo sauce </li>
+  <li>D.C.'s iconic half-smoke</li>
+  <li>Peruvian polla a la brasa</li>
+  <li> Chesapeake oysters</li>
+  <li>Salvadoran pupusas</li>
+  
+</ul> 
+ </div>
+<a href="https://theculturetrip.com/north-america/usa/washington-dc/articles/10-signature-dishes-you-must-eat-when-in-d-c">https://theculturetrip.com/north-america/usa/washington-dc/articles/10-signature-dishes-you-must-eat-when-in-d-c/</a>and
+<a href= " https://dc.eater.com/maps/best-new-restaurants-heatmap-dc">=https://dc.eater.com/maps/best-new-restaurants-heatmap-dc</a>more about food
+
+<h5 style="font-size:34px;">History
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Evacuation_Day_and_Washington%27s_Triumphal_Entry.jpg/800px-Evacuation_Day_and_Washington%27s_Triumphal_Entry.jpg" alt = "The Washington Monument" width="541" height="306"></h5>
+
+    
+    
+ 
+ <div></div>
+ Founded on July 16, 1790, Washington, DC is unique among American cities because it was established by the Constitution of the United States to serve as the nation's capital. You can read the actual line at the National Archives.From its beginning, it has been embroiled in political maneuvering, sectional conflicts and issues of race, national identity, compromise and, of course, power.Like many decisions in <a href="#id">American history</a>American history, the location of the new city was to be a compromise: Alexander Hamilton and northern states wanted the new federal government to assume Revolutionary War debts, and Thomas Jefferson and southern states who wanted the capital placed in a location friendly to slave-holding agricultural interests
+ <a href= "https://washington.org/dc-information/washington-dc-history">https://washington.org/dc-information/washington-dc-history</a> More About the history 
+<h2>National Flag
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_the_District_of_Columbia.svg" alt = ""width="568" height="306">
+  <a href="#id"> National Flag</a>
+   
+   
+   
+   </h2>
+  <div>
+    of Washington, D.C., consists of three red stars above two red bars on a white background. It is an armorial banner based on the design of the coat of arms granted to George Washington's great-great-great-grandfather, Lawrence Washington of Sulgrave Manor, Northamptonshire, England in 1592.</div>
+    <a href="https://en.wikipedia.org/wiki/Flag_of_Washington,_D.C">https://en.wikipedia.org/wiki/Flag_of_Washington,_D.C.#:~:text=The%20flag%20of%20Washington%2C%20D.C.,%2C%20Northamptonshire%2C%20England%20in%201592.</a> More About the Flag
+
+</a>
+    </body>
+</html>
